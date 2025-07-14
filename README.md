@@ -1,4 +1,4 @@
-## Hey, I'm János! 🤓
+## Hey, I'm János! 🤓 <img src=https://octodex.github.com/images/chellocat.jpg alt=celebrate width=150 align=right>
 
 -  :octocat: I'm currently transitioning our codebase to GitHub!
 - :milky_way:🔭 I occasionally have fun with astrophotography
@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
